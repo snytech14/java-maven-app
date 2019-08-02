@@ -4,6 +4,7 @@ pipeline {
         stage('build') {
             steps {
                 echo "Hello World!"
+                echo "Welcome to onboarding!"
             }
         }
     }
