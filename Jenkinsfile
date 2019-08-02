@@ -1,10 +1,3 @@
 pipeline {
-    agent { docker 'alpine' }
-    stages {
-        stage('Test') {
-            steps {
-                sh('printenv')
-            }
-        }
-    }
+    echo "Welcome to Project"
 }
