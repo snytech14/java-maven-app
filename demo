@@ -2,3 +2,5 @@ Welcome to CICD pipeline
  The Build job completed successfully
  
  echo"Welcome to the new dashboard"
+ 
+ New Feature added.
